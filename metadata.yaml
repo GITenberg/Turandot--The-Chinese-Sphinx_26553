@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26553#Turandot--The-Chinese-Sphinx
 gutenberg_issued: '2008-09-07'
 gutenberg_type: Text
 identifiers:
